@@ -11,7 +11,7 @@ of the visible squares, thus saving the vast time adding (and/or potentially rem
 1. [Version Notes](#version-notes)
 1. [Goals](#goals)
 1. [Known Issues](#known-issues)
-1. [License]
+1. [License](#license)
 
 ### Version Notes
 
