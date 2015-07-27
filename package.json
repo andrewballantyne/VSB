@@ -1,0 +1,12 @@
+{
+  "name": "virtual_scroll_box",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-cli": "*",
+    "grunt-ts": "*",
+    "bower": "*"
+  }
+}
